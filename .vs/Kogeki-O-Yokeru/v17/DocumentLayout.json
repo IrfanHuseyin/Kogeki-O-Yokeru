@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IF Make\\Projects\\C\u002B\u002B Projects\\Kogeki-O-Yokeru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EED2F7-90FE-4E29-BB4C-16FD056688E8}|Kogeki-O-Yokeru\\Kogeki-O-Yokeru.vcxproj|D:\\IF Make\\Projects\\C\u002B\u002B Projects\\Kogeki-O-Yokeru\\Kogeki-O-Yokeru\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39EED2F7-90FE-4E29-BB4C-16FD056688E8}|Kogeki-O-Yokeru\\Kogeki-O-Yokeru.vcxproj|solutionrelative:Kogeki-O-Yokeru\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 824,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\IF Make\\Projects\\C\u002B\u002B Projects\\Kogeki-O-Yokeru\\Kogeki-O-Yokeru\\main.cpp",
+              "RelativeDocumentMoniker": "Kogeki-O-Yokeru\\main.cpp",
+              "ToolTip": "D:\\IF Make\\Projects\\C\u002B\u002B Projects\\Kogeki-O-Yokeru\\Kogeki-O-Yokeru\\main.cpp",
+              "RelativeToolTip": "Kogeki-O-Yokeru\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-07T09:01:40.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
