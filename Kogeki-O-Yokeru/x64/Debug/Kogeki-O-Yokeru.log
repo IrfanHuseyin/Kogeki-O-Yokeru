@@ -1,7 +1,0 @@
-﻿  main.cpp
-D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\Kogeki-O-Yokeru\main.cpp(224,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\Kogeki-O-Yokeru\main.cpp(224,79): warning C4244:         with
-D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\Kogeki-O-Yokeru\main.cpp(224,79): warning C4244:         [
-D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\Kogeki-O-Yokeru\main.cpp(224,79): warning C4244:             T=unsigned int
-D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\Kogeki-O-Yokeru\main.cpp(224,79): warning C4244:         ]
-  Kogeki-O-Yokeru.vcxproj -> D:\IF Make\Projects\C++ Projects\Kogeki-O-Yokeru\x64\Debug\Kogeki-O-Yokeru.exe
